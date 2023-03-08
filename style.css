@@ -203,7 +203,7 @@ p {
 }
 
 .aboutme {
-  background: url("/IMG/Fondo.jpeg")
+  background: url(/IMG/Fondo.jpeg)
     no-repeat;
   background-size: cover;
 }
