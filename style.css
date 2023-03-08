@@ -84,7 +84,7 @@ p {
 }
 
 .nav-brand img {
-  width: 50px;
+  width: 160px;
 }
 
 .fa-bars {
@@ -203,8 +203,8 @@ p {
 }
 
 .aboutme {
-  background: url(/IMG/Fondo.jpeg)
-    no-repeat;
+  background: url(/IMG/Fondo.jpeg);
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
